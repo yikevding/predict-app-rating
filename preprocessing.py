@@ -14,3 +14,6 @@
 # 3. One-hot Encoding
 #    Categorical: Category, Content Rating
 #    Boolean: Ad Supported, In App Purchases, Editors Choice
+
+# 4. Standardization
+#    Normalize numerical features
